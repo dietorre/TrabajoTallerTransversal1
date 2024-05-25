@@ -41,8 +41,6 @@ class Matrix
  
     private:
         void initMatrix();
- 
-    private:
         int fil;
         int col;
         double **matrix;
