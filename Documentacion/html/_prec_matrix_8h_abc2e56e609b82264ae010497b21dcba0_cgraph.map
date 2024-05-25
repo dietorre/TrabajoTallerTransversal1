@@ -1,0 +1,7 @@
+<map id="PrecMatrix" name="PrecMatrix">
+<area shape="rect" id="Node000001" title="Precession transformation of equatorial coordinates." alt="" coords="5,31,90,57"/>
+<area shape="rect" id="Node000002" href="$_r__y_8cpp.html#aa0e372366355a27f28ad58272b2a9a15" title="Computes the rotation matrix around the y&#45;axis." alt="" coords="138,5,182,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,32,122,24,123,30,91,37"/>
+<area shape="rect" id="Node000003" href="$_r__z_8cpp.html#a6da83e42a1643db663785ca9e7291a79" title="Computes the rotation matrix around the z&#45;axis." alt="" coords="138,56,182,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,51,123,58,122,64,90,56"/>
+</map>

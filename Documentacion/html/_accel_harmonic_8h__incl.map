@@ -1,0 +1,17 @@
+<map id="AccelHarmonic.h" name="AccelHarmonic.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,216,32"/>
+<area shape="rect" id="Node000002" href="$_matrix_8h.html" title=" " alt="" coords="94,155,162,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,35,120,55,103,81,101,96,102,111,113,140,108,142,97,112,95,95,99,79,116,51,137,31"/>
+<area shape="rect" id="Node000006" href="$_s_a_t___const_8h.html" title=" " alt="" coords="187,155,285,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,31,193,52,213,79,226,109,234,139,228,140,221,111,208,81,189,55,168,34"/>
+<area shape="rect" id="Node000007" href="$_legendre_8h.html" title=" " alt="" coords="113,80,198,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="158,33,158,64,153,64,153,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="202,229,259,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,180,201,218,198,222,144,184"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,229,77,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="114,184,69,221,66,217,111,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="101,229,168,256"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="131,182,134,213,129,214,126,182"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="237,182,235,214,230,213,232,182"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="153,108,140,141,135,139,148,106"/>
+</map>

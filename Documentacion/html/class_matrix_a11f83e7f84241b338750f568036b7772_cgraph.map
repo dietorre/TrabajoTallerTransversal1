@@ -1,0 +1,5 @@
+<map id="Matrix::Matrix" name="Matrix::Matrix">
+<area shape="rect" id="Node000001" title="Constructor to concatenate two matrixes." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="Node000002" href="$class_matrix.html#aae96956238d71719ce7052f833ec5857" title="Get the number of rows." alt="" coords="155,5,243,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,16,139,16,139,21,107,21"/>
+</map>

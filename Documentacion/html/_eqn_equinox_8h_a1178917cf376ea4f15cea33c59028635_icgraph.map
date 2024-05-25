@@ -1,0 +1,29 @@
+<map id="EqnEquinox" name="EqnEquinox">
+<area shape="rect" id="Node000001" title="Computes the equation of the equinoxes." alt="" coords="797,183,889,209"/>
+<area shape="rect" id="Node000002" href="$gast_8cpp.html#a4eb2d09c87615520077aec1005b8e0ad" title="Computes Greenwich Apparent Sidereal Time." alt="" coords="666,157,712,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,189,712,177,713,172,782,183"/>
+<area shape="rect" id="Node000012" href="$_e_k_f___tests_8cpp.html#a605663d46be1cdeab71779434dd306e3" title=" " alt="" coords="629,208,749,235"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="782,209,750,214,749,209,781,203"/>
+<area shape="rect" id="Node000003" href="$_g_h_a_matrix_8cpp.html#a9699d3dfbd482534e86059e5613f8b8c" title="Transformation from true equator and equinox to Earth equator and Greenwich meridian system." alt="" coords="496,81,581,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,155,565,111,568,106,654,150"/>
+<area shape="rect" id="Node000011" href="$_e_k_f___tests_8cpp.html#a2722f190b9996bc6b10fcf58b4033e36" title=" " alt="" coords="501,157,576,184"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="651,173,577,173,577,168,651,168"/>
+<area shape="rect" id="Node000004" href="$_accel_8cpp.html#aac2a5457676008162640a0248495dc8f" title="Computes the acceleration." alt="" coords="388,56,443,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,85,443,77,444,72,481,80"/>
+<area shape="rect" id="Node000009" href="$_e_k_f___tests_8cpp.html#a63136bc0e2818c49e9fa3cce5562d0b1" title=" " alt="" coords="221,107,335,133"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="480,103,336,117,336,112,480,98"/>
+<area shape="rect" id="Node000010" href="$_var_eqn_8cpp.html#a0754aa8f2bf330e4467874c5bdc65e58" title="Computes the variational equations, i.e., the derivative of the state vector and the state transition..." alt="" coords="383,5,448,32"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="501,75,437,35,440,30,504,70"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title=" " alt="" coords="254,5,303,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,57,302,30,304,25,375,52"/>
+<area shape="rect" id="Node000006" href="$_e_k_f___tests_8cpp.html#aba2583bd7ee69508243dec7fe0870c3e" title=" " alt="" coords="237,56,320,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="373,72,320,72,320,67,373,67"/>
+<area shape="rect" id="Node000007" href="$_e_k_f___tests_8cpp.html#a438723717e25f3ab29c50c261ed54996" title=" " alt="" coords="103,132,173,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="232,92,222,97,161,134,158,129,220,92,230,87"/>
+<area shape="rect" id="Node000008" href="$_e_k_f___tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,132,55,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="87,148,55,148,55,143,87,143"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="206,136,174,142,173,136,205,131"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="368,21,303,21,303,16,368,16"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="485,170,173,150,174,145,486,165"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="614,217,434,198,221,167,173,157,174,151,221,161,435,192,614,212"/>
+</map>

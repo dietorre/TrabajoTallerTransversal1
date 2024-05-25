@@ -1,0 +1,13 @@
+<map id="test_unit" name="test_unit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,77,83"/>
+<area shape="rect" id="Node000002" href="$unit_8cpp.html#ac0dd1c8d23857c6bca8678a032dc7a1e" title="Calculates a unit vector given the original vector. If a zero vector is input, the output vector is a..." alt="" coords="125,56,167,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,67,109,67,109,72,77,72"/>
+<area shape="rect" id="Node000003" href="$class_matrix.html#acf2f64a13c51fac01617b7ce562048b8" title="Get the number of columns." alt="" coords="215,5,336,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,59,224,36,226,41,169,64"/>
+<area shape="rect" id="Node000004" href="$class_matrix.html#aae96956238d71719ce7052f833ec5857" title="Get the number of rows." alt="" coords="232,56,320,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,67,216,67,216,72,168,72"/>
+<area shape="rect" id="Node000005" href="$_matrix_8cpp.html#a4f1513ea866ae62f5cd019a76f653cf3" title="Calculate the norm of a matrix (as a vector)." alt="" coords="251,107,301,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="169,75,237,102,235,107,167,80"/>
+<area shape="rect" id="Node000006" href="$class_matrix.html#aa30b90656f5063a7eac84a8cc5607318" title="Calculate the Euclidean norm of the matrix (as a vector)." alt="" coords="384,107,479,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="301,117,369,117,369,123,301,123"/>
+</map>

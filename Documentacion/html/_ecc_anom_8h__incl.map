@@ -1,0 +1,10 @@
+<map id="EccAnom.h" name="EccAnom.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,104,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,155,106,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,34,30,49,17,67,9,86,12,106,26,126,44,144,41,148,22,130,7,108,4,85,12,64,26,45,42,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,80,99,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="62,33,62,64,57,64,57,33"/>
+<area shape="rect" id="Node000004" href="$_s_a_t___const_8h.html" title=" " alt="" coords="123,80,221,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,30,141,69,138,74,78,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="157,109,107,147,104,143,154,105"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="test_gast" name="test_gast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,81,108"/>
+<area shape="rect" id="Node000002" href="$gast_8cpp.html#a4eb2d09c87615520077aec1005b8e0ad" title="Computes Greenwich Apparent Sidereal Time." alt="" coords="129,81,175,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,92,113,92,113,97,81,97"/>
+<area shape="rect" id="Node000003" href="$_eqn_equinox_8cpp.html#a1178917cf376ea4f15cea33c59028635" title="Computes the equation of the equinoxes." alt="" coords="223,44,314,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,85,209,74,211,79,176,90"/>
+<area shape="rect" id="Node000006" href="$gmst_8cpp.html#a22a9ee5ea799a7511f4b5b1939c9de76" title="Computes Greenwich Mean Sidereal Time." alt="" coords="244,119,294,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="176,99,230,117,228,122,174,104"/>
+<area shape="rect" id="Node000004" href="$_mean_obliquity_8cpp.html#a11f057ac4e8a0c5a7958f77379e30d40" title="Computes the mean obliquity of the ecliptic." alt="" coords="362,5,467,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="314,43,347,34,348,39,316,48"/>
+<area shape="rect" id="Node000005" href="$_nut_angles_8cpp.html#a089963e4a3d5b8691ff50d428cb7e15f" title="Computes nutation in longitude and obliquity." alt="" coords="374,56,455,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="315,58,358,62,358,67,315,64"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="248,119,244,110,247,101,255,94,269,92,283,95,291,101,288,105,281,100,269,97,257,99,251,104,249,110,253,117"/>
+<area shape="rect" id="Node000007" href="$_frac_8cpp.html#a92f2f0f91c99cd6bec1a0e9a3b6443fc" title="Fractional part of a number (y=x&#45;[x])." alt="" coords="391,119,438,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,129,375,129,375,135,294,135"/>
+</map>

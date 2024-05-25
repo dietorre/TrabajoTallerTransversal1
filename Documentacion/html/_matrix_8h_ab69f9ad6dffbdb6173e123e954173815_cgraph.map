@@ -1,0 +1,7 @@
+<map id="dot" name="dot">
+<area shape="rect" id="Node000001" title="Calculate the dot product of two vectors." alt="" coords="5,31,45,57"/>
+<area shape="rect" id="Node000002" href="$class_matrix.html#acf2f64a13c51fac01617b7ce562048b8" title="Get the number of columns." alt="" coords="93,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,38,77,31,78,36,45,43"/>
+<area shape="rect" id="Node000003" href="$class_matrix.html#aae96956238d71719ce7052f833ec5857" title="Get the number of rows." alt="" coords="109,56,198,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="45,45,95,55,94,60,44,50"/>
+</map>

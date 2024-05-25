@@ -1,0 +1,15 @@
+<map id="AccelHarmonic" name="AccelHarmonic">
+<area shape="rect" id="Node000001" title="Computes the acceleration due to the harmonic gravity field of the central body." alt="" coords="5,107,115,133"/>
+<area shape="rect" id="Node000002" href="$globales_8h.html#a78f691f4cc30309d89607d1db947f503" title=" " alt="" coords="202,5,250,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,104,113,74,161,42,187,29,189,34,164,46,116,78,79,108"/>
+<area shape="rect" id="Node000003" href="$_legendre_8cpp.html#a4e13e6d79235a494734ec20966b36c36" title="Computes Legendre polynomials and their derivatives." alt="" coords="189,56,263,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,103,173,82,175,88,107,109"/>
+<area shape="rect" id="Node000004" href="$_matrix_8cpp.html#a4f1513ea866ae62f5cd019a76f653cf3" title="Calculate the norm of a matrix (as a vector)." alt="" coords="201,107,251,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,117,185,117,185,123,115,123"/>
+<area shape="rect" id="Node000006" href="$globales_8h.html#a8050f8e4946d9ad082a31c5525aea90e" title=" " alt="" coords="202,157,250,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,131,187,156,186,161,106,137"/>
+<area shape="rect" id="Node000007" href="$class_matrix.html#a501594d22bdc9599525e262042270667" title="Transpose the matrix." alt="" coords="163,208,289,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="79,132,116,162,164,194,174,199,172,204,161,198,113,166,75,136"/>
+<area shape="rect" id="Node000005" href="$class_matrix.html#aa30b90656f5063a7eac84a8cc5607318" title="Calculate the Euclidean norm of the matrix (as a vector)." alt="" coords="337,107,431,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="251,117,322,117,322,123,251,123"/>
+</map>

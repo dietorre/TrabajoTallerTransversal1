@@ -1,0 +1,9 @@
+<map id="test_EqnEquinox" name="test_EqnEquinox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,126,57"/>
+<area shape="rect" id="Node000002" href="$_eqn_equinox_8cpp.html#a1178917cf376ea4f15cea33c59028635" title="Computes the equation of the equinoxes." alt="" coords="174,31,265,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,41,158,41,158,47,126,47"/>
+<area shape="rect" id="Node000003" href="$_mean_obliquity_8cpp.html#a11f057ac4e8a0c5a7958f77379e30d40" title="Computes the mean obliquity of the ecliptic." alt="" coords="313,5,417,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,33,297,28,298,33,266,39"/>
+<area shape="rect" id="Node000004" href="$_nut_angles_8cpp.html#a089963e4a3d5b8691ff50d428cb7e15f" title="Computes nutation in longitude and obliquity." alt="" coords="325,56,406,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="266,49,309,57,308,62,265,55"/>
+</map>

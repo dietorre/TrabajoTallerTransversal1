@@ -1,0 +1,20 @@
+<map id="G_AccelHarmonic.h" name="G_AccelHarmonic.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,5,162,32"/>
+<area shape="rect" id="Node000002" href="$_matrix_8h.html" title=" " alt="" coords="87,229,155,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,33,89,80,89,106,100,164,114,214,109,215,95,165,84,107,84,80,89,32"/>
+<area shape="rect" id="Node000006" href="$_accel_harmonic_8h.html" title=" " alt="" coords="98,80,219,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="106,31,139,67,135,70,102,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="202,304,259,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,254,200,293,197,298,139,259"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,304,77,331"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,259,68,296,64,292,105,255"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="101,304,168,331"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="126,256,132,288,127,289,121,257"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="150,109,135,130,124,155,119,185,120,213,114,214,114,185,118,154,131,127,146,105"/>
+<area shape="rect" id="Node000007" href="$_s_a_t___const_8h.html" title=" " alt="" coords="193,229,292,256"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="183,105,209,125,233,153,243,184,246,213,241,214,238,185,228,156,206,129,179,109"/>
+<area shape="rect" id="Node000008" href="$_legendre_8h.html" title=" " alt="" coords="133,155,218,181"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="164,107,172,139,167,140,159,108"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="243,257,238,289,232,288,238,256"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="168,183,142,218,138,215,164,180"/>
+</map>

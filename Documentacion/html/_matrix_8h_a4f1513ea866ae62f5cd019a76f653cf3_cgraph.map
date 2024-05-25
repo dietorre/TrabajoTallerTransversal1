@@ -1,0 +1,5 @@
+<map id="norm" name="norm">
+<area shape="rect" id="Node000001" title="Calculate the norm of a matrix (as a vector)." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="Node000002" href="$class_matrix.html#aa30b90656f5063a7eac84a8cc5607318" title="Calculate the Euclidean norm of the matrix (as a vector)." alt="" coords="104,5,198,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,16,88,16,88,21,56,21"/>
+</map>
